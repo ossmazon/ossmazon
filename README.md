@@ -4,9 +4,7 @@
 Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></p>
 
 ------------
-
-
-<p align="center">![Twitter Follow](https://img.shields.io/twitter/follow/ossmazon?style=social)</p>
+<p align="center"><a href="https://twitter.com/intent/follow?screen_name=ossmazon"><img src="https://img.shields.io/twitter/follow/ossmazon?style=social"></a></p>
 
 Here are some ideas to get you started:
 
