@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on python and css.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about movies, coffee, and why there are denser universes than others
-- 📫 How to reach me: [twitter](https://twitter.com/ossmazon)
+- 📫 How to reach me: [twitter](https://twitter.com/ossmazon), [Twitch](https://twitch.com/ossmazon)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
