@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">https://img.shields.io/twitter/follow/ossmazon?style=social<p>
+<p align="center"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ossmazon?style=social"></p>
 
 Here are some ideas to get you started:
 
